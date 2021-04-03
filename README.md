@@ -1,6 +1,6 @@
 # active-mq-poc
 Download and start active mq first.
-To start active-mq navigate to ACTIVE_MQ_FOLDER\bin\win64 through cmd & hit below command:
+To start active-mq navigate to ACTIVE_MQ_FOLDER\bin\win64 through cmd & hit this command:
 activemq start
 
 
